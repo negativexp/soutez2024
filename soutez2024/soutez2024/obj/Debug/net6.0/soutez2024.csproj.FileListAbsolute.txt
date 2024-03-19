@@ -1,0 +1,15 @@
+C:\Users\matyas.schuller\source\repos\soutez2024\soutez2024\bin\Debug\net6.0\soutez2024.exe
+C:\Users\matyas.schuller\source\repos\soutez2024\soutez2024\bin\Debug\net6.0\soutez2024.deps.json
+C:\Users\matyas.schuller\source\repos\soutez2024\soutez2024\bin\Debug\net6.0\soutez2024.runtimeconfig.json
+C:\Users\matyas.schuller\source\repos\soutez2024\soutez2024\bin\Debug\net6.0\soutez2024.dll
+C:\Users\matyas.schuller\source\repos\soutez2024\soutez2024\bin\Debug\net6.0\soutez2024.pdb
+C:\Users\matyas.schuller\source\repos\soutez2024\soutez2024\obj\Debug\net6.0\soutez2024.csproj.AssemblyReference.cache
+C:\Users\matyas.schuller\source\repos\soutez2024\soutez2024\obj\Debug\net6.0\soutez2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matyas.schuller\source\repos\soutez2024\soutez2024\obj\Debug\net6.0\soutez2024.AssemblyInfoInputs.cache
+C:\Users\matyas.schuller\source\repos\soutez2024\soutez2024\obj\Debug\net6.0\soutez2024.AssemblyInfo.cs
+C:\Users\matyas.schuller\source\repos\soutez2024\soutez2024\obj\Debug\net6.0\soutez2024.csproj.CoreCompileInputs.cache
+C:\Users\matyas.schuller\source\repos\soutez2024\soutez2024\obj\Debug\net6.0\soutez2024.dll
+C:\Users\matyas.schuller\source\repos\soutez2024\soutez2024\obj\Debug\net6.0\refint\soutez2024.dll
+C:\Users\matyas.schuller\source\repos\soutez2024\soutez2024\obj\Debug\net6.0\soutez2024.pdb
+C:\Users\matyas.schuller\source\repos\soutez2024\soutez2024\obj\Debug\net6.0\soutez2024.genruntimeconfig.cache
+C:\Users\matyas.schuller\source\repos\soutez2024\soutez2024\obj\Debug\net6.0\ref\soutez2024.dll
